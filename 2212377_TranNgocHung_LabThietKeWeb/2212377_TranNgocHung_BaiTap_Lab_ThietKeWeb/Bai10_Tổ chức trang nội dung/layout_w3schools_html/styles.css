@@ -1,0 +1,59 @@
+/* Reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body styles */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  header img {
+    width: 150px;
+  }
+  
+  header nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  header nav ul li {
+    margin-right: 20px;
+  }
+  
+  header nav ul li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  /* Main content styles */
+  main {
+    padding: 20px;
+  }
+  
+  /* Section styles */
+  section {
+    margin-bottom: 20px;
+  }
+  
+  /* Advertisement styles */
+  .advertisement {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Other styles (bạn có thể thêm các style cho các phần tử khác như button, link, v.v.) */

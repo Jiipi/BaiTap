@@ -1,0 +1,15 @@
+ul {
+    list-style: none; /* Ẩn dấu đầu dòng */
+    background-color: #FF5733; /* Màu nền */
+    padding: 10px; /* Khoảng cách nội dung */
+  }
+  
+  ul li {
+    display: inline-block; /* Hiển thị các mục ngang hàng */
+    margin: 0 10px; /* Khoảng cách giữa các mục */
+  }
+  
+  ul li a {
+    color: #fff; /* Màu chữ */
+    text-decoration: none; /* Ẩn gạch chân */
+  }
